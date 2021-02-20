@@ -42,7 +42,7 @@ while True:
 		print("Slicing of string is",range)
 	if ch==7:
 		char=input("enter the character to be searched:")
-		m="char" in str1
+		m=char in str1
 		print(m)
 	if ch==8:
 		char=input("Enter a character:")
