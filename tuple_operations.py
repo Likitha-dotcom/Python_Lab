@@ -1,4 +1,4 @@
-#10 operations of tuples
+ #10 operations of tuples
 #LAB1
 import random
 while True:
@@ -21,7 +21,7 @@ while True:
 		list1=[]
 		list2=[]
 		n=int(input("Enter the size of the list:"))
-		for i in range(0,n):
+ 		for i in range(0,n):
 			list1.append(random.randrange(0,50))
 		for i in range(0,n):
 			list2.append(random.randrange(0,50))
